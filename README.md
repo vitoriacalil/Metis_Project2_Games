@@ -1,10 +1,16 @@
 # Metis Project 2 - Predicting Video Games Sale
 
-Below is a list with explanation of all files in this repo.
+Hello everyone! 
 
-## 1st file:
+For this project, my objective was to predict video games sales using linear regression models. To develop this project, I had to scrape the data from the internet.
+
+Why predicting video games sales? This is important for video games retailers and video game distribution companies, cause they have to make sure that they will have the right game on the stock. (And I love video games, so I was thrilled to develop a project about it)
+
+Below is a list with explanation of all files in this repo. Note: this is for my own acknowledgment.
+
+## scraping_games (dir):
 *sgames.py*
-Scrapy spider used to scrap data from vgchartz.com
+Scrapy spider used to scrape data from vgchartz.com
 
 ## 2nd file:
 *DataAcqui.ipynb*
@@ -37,4 +43,4 @@ In this last notebook I changed some categories of features, and this was based 
 
 ## 8th file:
 *Predicting_Games_Sale.pdf*
-Slides presented
+Presentation
